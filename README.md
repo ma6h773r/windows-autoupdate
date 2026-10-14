@@ -1,4 +1,4 @@
-﻿# Windows AUtoUpdate
+﻿# Windows AutoUpdate
 
 A PowerShell script that updates everything on a Windows machine in one run: app via Winget, the Windows itself via Windows Update.
 
